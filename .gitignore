@@ -1,0 +1,5 @@
+metastore_db/
+spark-warehouse/
+derby.log
+_hold.py
+_run.sh
